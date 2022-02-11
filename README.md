@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Carpye
-- 👀 I’m interested in ... Front End Development
-- 🌱 I’m currently learning ... HTML, CSS, JS and MySQL
-- 💞️ I’m looking to collaborate on ... Pawlani
+- 👀 I’m interested in general programming.
+- 🌱 I’m currently learning ... literally everything. HTML, CSS, JS, C++, ~PY
+- 💞️ My idol is konhi
 - 📫 How to reach me ... you wont
 
 <!---
