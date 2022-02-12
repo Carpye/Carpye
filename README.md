@@ -1,5 +1,6 @@
 👋 Heya! I'm Kacper
-16 years old
+
+16yo
 
 <!---
 Carpye/Carpye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
