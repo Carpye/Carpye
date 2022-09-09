@@ -24,9 +24,9 @@
 
 ## 🤗 About Me
 
-- My name is Kacper Kozłowski and I'm a programming student with big ideas but not big engagement. 🤦‍♂️
+- My name is __Kacper Kozłowski__ and I'm a programming student with big ideas but not big engagement. 🤦‍♂️
 
-- I love checking internet for recent news about __IT__ and __Programming__. - I'm also very interested in <b>Quantum Physics</b>, <b>Math</b> and <b>Space</b>. 📔
+- I love checking internet for recent news about __IT__ and __Programming__. I'm also very interested in <b>Quantum Physics</b>, <b>Math</b> and <b>Space</b>. 📔
 
 - I enjoy meeting new <b>people</b>, especially with hobbies similar to mine! 💞
 
