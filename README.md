@@ -32,7 +32,7 @@
 
 ✨ _My main goal is to be better than myself_ ✨
 
-#### 🎉 Check out my socials! 🎉
+### 🎉 Check out my socials! 🎉
 
 <a href="https://www.facebook.com/profile.php?id=100011701717277">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://www.instagram.com/k.kapii_">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
