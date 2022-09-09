@@ -24,15 +24,15 @@
 
 ## 🤗 About Me
 
-- My name is <strong style="color: lightblue">Kacper Kozłowski</strong> and I'm a programming student with big ideas but not big engagement. 🤦‍♂️
+- My name is Kacper Kozłowski and I'm a programming student with big ideas but not big engagement. 🤦‍♂️
 
-- I love checking internet for recent news about <span style="color: lightgreen">IT</span> and <span style="color: lightgreen">Programming</span>. - I'm also very interested in <b>Quantum Physics</b>, <b>Math</b> and <b>Space</b>. 📔
+- I love checking internet for recent news about __IT__ and __Programming__. - I'm also very interested in <b>Quantum Physics</b>, <b>Math</b> and <b>Space</b>. 📔
 
 - I enjoy meeting new <b>people</b>, especially with hobbies similar to mine! 💞
 
-<span style="color: #edc54c; opacity: 0.9; text-align: center">✨ _My main goal is to be better than myself_ ✨</span>
+✨ _My main goal is to be better than myself_ ✨
 
-#### Check out my socials!
+#### 🎉 Check out my socials! 🎉
 
 <a href="https://www.facebook.com/profile.php?id=100011701717277">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://www.instagram.com/k.kapii_">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
@@ -42,7 +42,7 @@
 <a href="https://www.youtube.com/channel/UCS0glNKu1LE4Y6uN7U42jbw">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 <a href="https://www.twitch.tv/carpyee">![Twitch](https://img.shields.io/badge/twitch-ab65fc?style=for-the-badge&logo=twitch&logoColor=white)</a>
 
-## Contact
+## 💌 Contact
 
 ![Gmail](https://img.shields.io/badge/gmail-hello.carpye@gmail.com-ef573b?style=for-the-badge&logo=gmail&logoColor=white)
 ![Discord](https://img.shields.io/badge/carpye%232115-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
