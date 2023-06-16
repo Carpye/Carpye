@@ -1,6 +1,6 @@
 # 👋 Heya! I'm <span style="background: orange; brackground-clip: text; -webkit-background-clip: text; color: transparent; background-image: linear-gradient(90deg, rgba(253,149,29,1) 0%, rgba(255,165,0,1) 100%)">Kacper</span>
 
-![16 Years Old](https://img.shields.io/badge/-%20✨%2016%20years%20old%20-orange?style=for-the-badge)
+![17 Years Old](https://img.shields.io/badge/-%20✨%2017%20years%20old%20-orange?style=for-the-badge)
 ![Zielona Góra](https://img.shields.io/badge/-%20🏡%20Zielona%20G%C3%B3ra%20-success?style=for-the-badge)
 ![Elektronik](https://img.shields.io/badge/-%20🍆%20Elektronik%20-%23038cfc?style=for-the-badge)
 ![Programmer](https://img.shields.io/badge/-%20👨‍🎓%20Programming%20Student%20(2/5%20year)%20-blueviolet?style=for-the-badge)
