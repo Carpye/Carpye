@@ -3,40 +3,39 @@
 ![17 Years Old](https://img.shields.io/badge/-%20✨%2017%20years%20old%20-orange?style=for-the-badge)
 ![Zielona Góra](https://img.shields.io/badge/-%20🏡%20Zielona%20G%C3%B3ra%20-success?style=for-the-badge)
 ![Elektronik](https://img.shields.io/badge/-%20🍆%20Elektronik%20-%23038cfc?style=for-the-badge)
-![Programmer](https://img.shields.io/badge/-%20👨‍🎓%20Programming%20Student%20(3/5%20year)%20-blueviolet?style=for-the-badge)
-
----
+![Programmer](<https://img.shields.io/badge/-%20👨‍🎓%20Programming%20Student%20(3/5%20year)%20-blueviolet?style=for-the-badge>)
 
 ## 💪 Stack
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007EFF?style=for-the-badge&logo=typescript&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](	https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![tRPC](https://img.shields.io/badge/trpc-00B6FF.svg?style=for-the-badge&logo=trpc&logoColor=white)
+![Shadcn-ui](https://img.shields.io/badge/shadcn_ui-111.svg?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Tailwind Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-27AE60.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## 🔨 Tools
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Gimp](https://img.shields.io/badge/gimp-666.svg?style=for-the-badge&logo=gimp&logoColor=white)
 
 ## 🤗 About Me
 
-- My name is __Kacper Kozłowski__ and I'm a programming student with big ideas but not big engagement. 🤦‍♂️
+- My name is **Kacper Kozłowski** and I'm a programming student. 🤦‍♂️
 
-- I love checking internet for recent news about __IT__ and __Programming__. I'm also very interested in <b>Quantum Physics</b>, <b>Math</b> and <b>Space</b>. 📔
+- I'm a JS/TS enthusiast. 🐌
 
-- I enjoy meeting new <b>people</b>, especially with hobbies similar to mine! 💞
+- I love checking the internet for recent news about **IT** and **Programming**. 💻
 
-✨ _My main goal is to be better than myself_ ✨
+- I'm interested in <b>Quantum Physics</b>, <b>Math</b> and <b>Universe</b>. 📔
 
 ### 🎉 Check out my socials! 🎉
 
 <a href="https://www.facebook.com/profile.php?id=100011701717277">![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 <a href="https://www.instagram.com/k.kapii_">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
-![Snapchat](https://img.shields.io/badge/k.kapii-snapchat-fffa19?style=for-the-badge&logo=snapchat&logoColor=white)
-<a href="https://twitter.com/Carpye3">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
+<a href="https://twitter.com/carpye_dev">![X](https://img.shields.io/badge/X/Twitter-000?style=for-the-badge&logo=x&logoColor=white)</a>
 <a href="https://open.spotify.com/user/kapidupa?si=66505fcea4ee4d79">![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)</a>
 <a href="https://www.youtube.com/channel/UCS0glNKu1LE4Y6uN7U42jbw">![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 <a href="https://www.twitch.tv/carpyee">![Twitch](https://img.shields.io/badge/twitch-ab65fc?style=for-the-badge&logo=twitch&logoColor=white)</a>
@@ -44,40 +43,24 @@
 ## 💌 Contact
 
 ![Gmail](https://img.shields.io/badge/gmail-hello.carpye@gmail.com-ef573b?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/carpye%232115-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-Feel free to contact me via [e-mail](mailto:hello.carpye@gmail.com) or [Discord](https://discord.com) (Carpye#2115)
+Feel free to contact me via [e-mail](mailto:hello.carpye@gmail.com)
 
----
+## ✨ Projects
 
-## ✨ Projects 
+- [Aurorium](https://aurorium.vercel.app) - Simple app with user profile and auth. Will probably be extended with more functionalities.
+- [Waterworks](https://waterworks-carpye.vercel.app) - Waterworks management system with dashboard and integrated infrastructure diagram.
+- [Quill](https://quill-carpye.vercel.app) - SaaS Application for chatting with PDF files. Project built with [@JoshTriedCoding](https://github.com/joschan21)'s [video tutorial](https://youtu.be/ucX2zXAZ1I0).
+- [Breadit](https://breadit-carpye.vercel.app) - A Reddit clone built using a tutorial created by [@JoshTriedCoding](https://github.com/joschan21).
 
-- Nothing here for now. Check out later! __:(__
+## 🏓 Now learning:
 
-## 🏓 My Todo's for this school year :
+- NextJS
+- React
+- tRPC
+- Next-Auth
 
-- __Go deep inside__ :
-  - JavaScript
-  - React / Next
-  - GitHub / Figma
-  - Design & UI
-  - Fetching and working with online data
-  - Api's
-  - General Front End
-
-- __Learn more about__ :
-  - Firebase / Docker
-  - Linux based OS's
-  - C++ / PHP / TypeScript
-  - Flutter / React Native / Tailwind Css
-  - Full Stack Web Apps
-  - Strapi / GraphQL
-  - Ethical Hacking
-
-And of course to get better grades at school 😁
-
-### 👅 Languages
+## 👅 Languages
 
 ![Polish](https://img.shields.io/badge/POLISH-NATIVE-success?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-conversational-hotpink?style=for-the-badge)
-![German](https://img.shields.io/badge/German-absolute%20beginner-yellow?style=for-the-badge)
