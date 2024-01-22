@@ -42,9 +42,7 @@
 
 ## 💌 Contact
 
-![Gmail](https://img.shields.io/badge/gmail-hello.carpye@gmail.com-ef573b?style=for-the-badge&logo=gmail&logoColor=white)
-
-Feel free to contact me via [e-mail](mailto:hello.carpye@gmail.com)
+<a href="mailto:hello.carpye@gmail.com">![Gmail](https://img.shields.io/badge/gmail-hello.carpye@gmail.com-ef573b?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ## ✨ Projects
 
