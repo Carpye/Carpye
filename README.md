@@ -20,6 +20,7 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Gimp](https://img.shields.io/badge/gimp-666.svg?style=for-the-badge&logo=gimp&logoColor=white)
+![Git](https://img.shields.io/badge/git-orange.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🤗 About Me
 
